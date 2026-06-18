@@ -281,7 +281,7 @@ public class TechDemoRPG {
         JButton btn = new JButton(text);
         btn.setMinimumSize(new Dimension(750, 750));
         btn.setBackground(Color.BLACK);
-        btn.setForeground(Color.BLACK);
+        btn.setForeground(Color.WHITE);
         btn.setFont(new Font("Consolas", Font.BOLD, 18));
         btn.setFocusPainted(true);
         return btn;
